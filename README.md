@@ -1,5 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-
+<h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+    Hey, nice to see you.
+</h1>
 
 <p>
     Welcome to my page!
@@ -62,14 +64,14 @@
 
 <h3>My latest posts</h3>
 
-<ul><li>Not available</li></ul>
+<ul><li><a href="https://www.ryanspoone.com/single-node-linpack/"><b>Single Node LINPACK Using GCC</b></a> on April 16, 2018<br /><i>In this guide, we will cover the best way I know of getting High-Performance Linpack running using GCC in 2018.</i></li></ul>
 
 <h3>Weather</h3>
 
 <p>
-    Currently, the weather is: <b> NaN°F, <i></i></b>
+    Currently, the weather is: <b> 90°F, <i>moderate rain</i></b>
     <br/>
-    Today, the sun rises at <b>Invalid Date</b> and sets at <b>Invalid Date</b>.
+    Today, the sun rises at <b>06:45 AM</b> and sets at <b>08:29 PM</b>.
 </p>
 
 <h3>Where to find me</h3>
@@ -89,7 +91,7 @@
 <hr />
 
 <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, July 25, 4:54 PM CDT
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, July 25, 5:32 PM CDT
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
 </p>

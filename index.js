@@ -9,6 +9,7 @@ const _ = require('lodash');
 const Mustache = require('mustache');
 const fetch = require('isomorphic-fetch');
 const fs = require('fs');
+const Parser = require('rss-parser');
 
 const DATA = {
     refreshDate: new Date().toLocaleDateString('en-US', {
@@ -50,7 +51,31 @@ const setWeatherInformation = async () => {
 };
 
 const setBlogPosts = async () => {
+    const parser = new Parser();
+    const { items } = await parser.parseURL('https://www.ryanspoone.com/rss/');
     // TODO
+
+    let posts = ['<ul>'];
+    if (!_.isEmpty(items)) {
+        _.each(items, item => {
+            const { title, link, pubDate, contentSnippet } = item;
+            posts.push(
+                `<li><a href="${link}"><b>${title}</b></a> on ${new Date(pubDate).toLocaleDateString(
+                    'en-US',
+                    {
+                        month: 'long',
+                        day: 'numeric',
+                        year: 'numeric',
+                        timeZone: 'America/Chicago'
+                    }
+                )}<br /><i>${contentSnippet}</i></li>`
+            );
+        });
+    } else {
+        posts.push('<li>Not available</li>');
+    }
+    posts.push('</ul>');
+    DATA.latestBlogPosts = posts.join('');
 };
 
 const generateReadMe = async () => {
