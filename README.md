@@ -1,22 +1,22 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
 
-Welcome to my page!
+Welcome to my page, friend!
 
-I'm Ryan, fullstack developer currently living in **Austin, TX**.
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ryanspoone.ryanspoone)
+I'm Ryan, software engineer currently living in **Austin, TX**.
 
 ---
 
 ## Things I code with
 
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier&logoColor=white)
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Prettier-black?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier" />
+  <img src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+</p>
 
 ---
 
@@ -35,24 +35,24 @@ I'm Ryan, fullstack developer currently living in **Austin, TX**.
   <tbody>
     <tr>
 	    <td><a href="https://github.com/ryanspoone/Server-Performance-Evaluation-Tool"><b>Server Performance Evaluation Tool</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/Server-Performance-Evaluation-Tool?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/Server-Performance-Evaluation-Tool?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/Server-Performance-Evaluation-Tool?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/Server-Performance-Evaluation-Tool?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
     </tr>
 	  <tr>
 		  <td><a href="https://github.com/ryanspoone/fullstack-template"><b>Fullstack Template</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/fullstack-template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/fullstack-template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/fullstack-template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/fullstack-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
     </tr>
 		<tr>
 			<td><a href="https://github.com/ryanspoone/nodejs-template"><b>Node.js Template</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/nodejs-template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/nodejs-template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/nodejs-template?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/nodejs-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -70,7 +70,7 @@ I'm Ryan, fullstack developer currently living in **Austin, TX**.
   <summary>Weather</summary>
   <br />
 
-  Currently, the weather is: <b>78°F, <i>scattered clouds</i></b>
+  Currently, the weather is: <b>76°F, <i>light rain</i></b>
 
 
   Today, the sun rises at <b>06:45 AM</b> and sets at <b>08:29 PM</b>.
@@ -93,14 +93,9 @@ I'm Ryan, fullstack developer currently living in **Austin, TX**.
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
     <br />
-    Last refresh: Saturday, July 25, 8:33 PM CDT
+    Last refresh: Saturday, July 25, 9:01 PM CDT
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
-</p>
-<p align="center">
-    <img src="https://github.com/ryanspoone/ryanspoone/workflows/README%20build/badge.svg" />
-    <img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/ryanspoone?style=flat-square&labelColor=343b41"/>
-    <img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/ryanspoone?style=flat-square&labelColor=343b41"/>
 </p>
 
 ---
