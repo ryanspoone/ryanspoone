@@ -1,31 +1,23 @@
-<h1>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-    Hey, nice to see you.
-</h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
 
-<p>
-    Welcome to my page!
-    <br/>
-    I'm Ryan, fullstack developer currently living in <b>Austin, TX</b>.
-</p>
+Welcome to my page!
 
-<p>
-    <img alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=ryanspoone.ryanspoone&style=flat-square" />
-</p>
+I'm Ryan, fullstack developer currently living in **Austin, TX**.
 
-<h3>Things I code with</h3>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ryanspoone.ryanspoone)
 
-<p>
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
 
-<h3>Open source projects</h3>
+## Things I code with
+
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier&logoColor=white)
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+## Open source projects
 
 <table>
   <thead align="center">
@@ -62,36 +54,29 @@
   </tbody>
 </table>
 
-<h3>My latest posts</h3>
+## My latest posts
 
 <ul><li><a href="https://www.ryanspoone.com/single-node-linpack/"><b>Single Node LINPACK Using GCC</b></a> on April 16, 2018<br /><i>In this guide, we will cover the best way I know of getting High-Performance Linpack running using GCC in 2018.</i></li></ul>
 
-<h3>Fun facts</h3>
+## Fun facts
 
-<p>
-    Currently, the weather is: <b> 77°F, <i>moderate rain</i></b>
-    <br/>
-    Today, the sun rises at <b>06:45 AM</b> and sets at <b>08:29 PM</b>.
-</p>
+Currently, the weather is: **78°F, _moderate rain_**
 
-<h3>Where to find me</h3>
 
-<p>
-    <a href="https://github.com/ryanspoone" target="_blank">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/ryanspoone" target="_blank">
-        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/ryanspoone" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</p>
+Today, the sun rises at **06:45 AM** and sets at **08:29 PM**.
 
-<hr />
+## Where to find me
+
+[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ryanspoone)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ryanspoone)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanspoone)
+
+---
 
 <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, July 25, 7:24 PM CDT
+    This <i>README</i> file is generated <b>every 3 hours</b>!
+    <br />
+    Last refresh: Saturday, July 25, 7:34 PM CDT
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
 </p>
