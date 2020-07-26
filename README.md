@@ -58,25 +58,37 @@ I'm Ryan, fullstack developer currently living in **Austin, TX**.
 
 <ul><li><a href="https://www.ryanspoone.com/single-node-linpack/"><b>Single Node LINPACK Using GCC</b></a> on April 16, 2018<br /><i>In this guide, we will cover the best way I know of getting High-Performance Linpack running using GCC in 2018.</i></li></ul>
 
+---
+
 ## Fun facts
+<details>
+  <summary>Weather</summary>
+  <br />
 
-Currently, the weather is: **78°F, _moderate rain_**
+  Currently, the weather is: <b>78°F, <i>light rain</i></b>
 
 
-Today, the sun rises at **06:45 AM** and sets at **08:29 PM**.
-
-## Where to find me
-
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ryanspoone)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ryanspoone)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryanspoone)
+  Today, the sun rises at <b>06:45 AM</b> and sets at <b>08:29 PM</b>.
+</details>
+<details>
+  <summary>Public Stats</summary>
+  <br />
+  <table>
+    <tbody>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=ryanspoone&show_icons=true&line_height=27&theme=monokai&count_private=true" alt="ryanspoone's Github Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanspoone&hide_langs_below=1&theme=monokai&line_height=27&count_private=true" /></td>
+    </tr>
+    </tbody>
+  </table>
+</details>
 
 ---
 
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
     <br />
-    Last refresh: Saturday, July 25, 7:34 PM CDT
+    Last refresh: Saturday, July 25, 8:12 PM CDT
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
 </p>
@@ -84,4 +96,14 @@ Today, the sun rises at **06:45 AM** and sets at **08:29 PM**.
     <img src="https://github.com/ryanspoone/ryanspoone/workflows/README%20build/badge.svg" />
     <img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/ryanspoone?style=flat-square&labelColor=343b41"/>
     <img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/ryanspoone?style=flat-square&labelColor=343b41"/>
+</p>
+
+---
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+  <p align="center">
+    <a href="https://github.com/ryanspoone"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" alt="Github"/></a>
+    <a href="https://twitter.com/ryanspoone"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://www.linkedin.com/in/ryanspoone"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  </p>
 </p>
