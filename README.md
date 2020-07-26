@@ -70,7 +70,7 @@ I'm Ryan, software engineer currently living in **Austin, TX**.
   <summary>Weather</summary>
   <br />
 
-  Currently, the weather is: <b>76°F, <i>light rain</i></b>
+  Currently, the weather is: <b>75°F, <i>clear sky</i></b>
 
 
   Today, the sun rises at <b>06:45 AM</b> and sets at <b>08:29 PM</b>.
@@ -93,7 +93,7 @@ I'm Ryan, software engineer currently living in **Austin, TX**.
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
     <br />
-    Last refresh: Saturday, July 25, 9:01 PM CDT
+    Last refresh: Saturday, July 25, 10:08 PM CDT
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
 </p>
