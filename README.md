@@ -69,7 +69,7 @@
 <h3>Fun facts</h3>
 
 <p>
-    Currently, the weather is: <b> 78°F, <i>moderate rain</i></b>
+    Currently, the weather is: <b> 77°F, <i>moderate rain</i></b>
     <br/>
     Today, the sun rises at <b>06:45 AM</b> and sets at <b>08:29 PM</b>.
 </p>
@@ -91,7 +91,7 @@
 <hr />
 
 <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, July 25, 6:08 PM CDT
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, July 25, 7:24 PM CDT
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
 </p>
