@@ -6,6 +6,7 @@ I'm Ryan, fullstack developer currently living in **Austin, TX**.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ryanspoone.ryanspoone)
 
+---
 
 ## Things I code with
 
@@ -16,6 +17,8 @@ I'm Ryan, fullstack developer currently living in **Austin, TX**.
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+---
 
 ## Open source projects
 
@@ -54,6 +57,8 @@ I'm Ryan, fullstack developer currently living in **Austin, TX**.
   </tbody>
 </table>
 
+---
+
 ## My latest posts
 
 <ul><li><a href="https://www.ryanspoone.com/single-node-linpack/"><b>Single Node LINPACK Using GCC</b></a> on April 16, 2018<br /><i>In this guide, we will cover the best way I know of getting High-Performance Linpack running using GCC in 2018.</i></li></ul>
@@ -65,7 +70,7 @@ I'm Ryan, fullstack developer currently living in **Austin, TX**.
   <summary>Weather</summary>
   <br />
 
-  Currently, the weather is: <b>78°F, <i>light rain</i></b>
+  Currently, the weather is: <b>78°F, <i>scattered clouds</i></b>
 
 
   Today, the sun rises at <b>06:45 AM</b> and sets at <b>08:29 PM</b>.
@@ -88,7 +93,7 @@ I'm Ryan, fullstack developer currently living in **Austin, TX**.
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
     <br />
-    Last refresh: Saturday, July 25, 8:12 PM CDT
+    Last refresh: Saturday, July 25, 8:29 PM CDT
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
 </p>
