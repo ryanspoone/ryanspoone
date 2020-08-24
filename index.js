@@ -52,7 +52,9 @@ const setWeatherInformation = async () => {
 
 const setBlogPosts = async () => {
     const parser = new Parser();
-    const { items } = await parser.parseURL('https://www.ryanspoone.com/rss/');
+    const { items } = await parser.parseURL(
+        'https://www.ryanspoone.com/admin/6e77be03b4b76fc45615cb2967af11/rss/'
+    );
     // TODO
 
     let posts = ['<ul>'];
