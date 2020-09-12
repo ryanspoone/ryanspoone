@@ -64,7 +64,7 @@ const setBlogPosts = async () => {
                 .split('/')
                 .compact()
                 .last();
-            const url = `https://www.ryanspoone.com/blog/${slug}`;
+            const url = slug ? `https://www.ryanspoone.com/blog/${slug}` : link;
             posts.push(
                 `<li><a href="${url}"><b>${title}</b></a> on ${new Date(pubDate).toLocaleDateString('en-US', {
                     month: 'long',
