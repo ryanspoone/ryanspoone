@@ -55,22 +55,22 @@ const setBlogPosts = async () => {
     const { items } = await parser.parseURL(
         'https://www.ryanspoone.com/admin/6e77be03b4b76fc45615cb2967af11/rss/'
     );
-    // TODO
 
     let posts = ['<ul>'];
     if (!_.isEmpty(items)) {
         _.each(items, item => {
             const { title, link, pubDate, contentSnippet } = item;
+            const slug = _(link)
+                .split('/')
+                .last();
+            const url = `https://www.ryanspoone.com/blog/${slug}`;
             posts.push(
-                `<li><a href="${link}"><b>${title}</b></a> on ${new Date(pubDate).toLocaleDateString(
-                    'en-US',
-                    {
-                        month: 'long',
-                        day: 'numeric',
-                        year: 'numeric',
-                        timeZone: 'America/Chicago'
-                    }
-                )}<br /><i>${contentSnippet}</i></li>`
+                `<li><a href="${url}"><b>${title}</b></a> on ${new Date(pubDate).toLocaleDateString('en-US', {
+                    month: 'long',
+                    day: 'numeric',
+                    year: 'numeric',
+                    timeZone: 'America/Chicago'
+                })}<br /><i>${contentSnippet}</i></li>`
             );
         });
     } else {
