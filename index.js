@@ -62,6 +62,7 @@ const setBlogPosts = async () => {
             const { title, link, pubDate, contentSnippet } = item;
             const slug = _(link)
                 .split('/')
+                .compact()
                 .last();
             const url = `https://www.ryanspoone.com/blog/${slug}`;
             posts.push(
