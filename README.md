@@ -61,7 +61,7 @@ I'm Ryan, software engineer currently living in **Austin, TX**.
 
 ## My latest posts
 
-<ul><li><a href="https://www.ryanspoone.com/blog/"><b>Single Node LINPACK Using GCC</b></a> on April 16, 2018<br /><i>In this guide, we will cover the best way I know of getting High-Performance Linpack running using GCC in 2018.</i></li></ul>
+<ul><li><a href="https://www.ryanspoone.com/blog/single-node-linpack"><b>Single Node LINPACK Using GCC</b></a> on April 16, 2018<br /><i>In this guide, we will cover the best way I know of getting High-Performance Linpack running using GCC in 2018.</i></li></ul>
 
 ---
 
@@ -93,7 +93,7 @@ I'm Ryan, software engineer currently living in **Austin, TX**.
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
     <br />
-    Last refresh: Saturday, September 12, 1:26 PM CDT
+    Last refresh: Saturday, September 12, 1:32 PM CDT
     <br />
     <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme">Create your own here!</a>
 </p>
