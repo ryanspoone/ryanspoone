@@ -59,14 +59,14 @@ const setBlogPosts = async () => {
     let posts = ['<ul>'];
     if (!_.isEmpty(items)) {
         _.each(items, item => {
-            const { title, link, pubDate, contentSnippet } = item;
+            const { title, link, isoDate, contentSnippet } = item;
             const slug = _(link)
                 .split('/')
                 .compact()
                 .last();
             const url = slug ? `https://www.ryanspoone.com/blog/${slug}` : link;
             posts.push(
-                `<li><a href="${url}"><b>${title}</b></a> on ${new Date(pubDate).toLocaleDateString('en-US', {
+                `<li><a href="${url}"><b>${title}</b></a> on ${new Date(isoDate).toLocaleDateString('en-US', {
                     month: 'long',
                     day: 'numeric',
                     year: 'numeric',
