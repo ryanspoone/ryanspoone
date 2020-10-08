@@ -70,7 +70,7 @@ I'm Ryan, software engineer currently living in **Austin, TX**.
   <summary>Austin weather</summary>
   <br />
 
-  Currently, the weather is: <b>69°F, <i>clear sky</i></b>
+  Currently, the weather is: <b>70°F, <i>clear sky</i></b>
 
 
   Today, the sun rises at <b>07:28 AM</b> and sets at <b>07:08 PM</b>.
