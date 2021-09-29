@@ -70,7 +70,7 @@ I'm Ryan, software engineer currently living in **Austin, TX**.
   <summary>Austin weather</summary>
   <br />
 
-  Currently, the weather is: <b>95°F, <i>few clouds</i></b>
+  Currently, the weather is: <b>85°F, <i>scattered clouds</i></b>
 
 
   Today, the sun rises at <b>07:22 AM</b> and sets at <b>07:20 PM</b>.
@@ -93,7 +93,7 @@ I'm Ryan, software engineer currently living in **Austin, TX**.
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
     <br />
-    Last refresh: Tuesday, September 28, 4:09 PM CDT
+    Last refresh: Tuesday, September 28, 7:44 PM CDT
     <br />
     <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme">Create your own here!</a>
 </p>
