@@ -2,7 +2,7 @@
 
 Welcome to my page, friend!
 
-I'm Ryan, a software engineer living in **Austin, TX**.
+I'm Ryan, software engineer currently living in **Austin, TX**.
 
 ---
 
@@ -34,21 +34,21 @@ I'm Ryan, a software engineer living in **Austin, TX**.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ryanspoone/Server-Performance-Evaluation-Tool"><b>Server Performance Evaluation Tool</b></a></td>
+	    <td><a href="https://github.com/ryanspoone/Server-Performance-Evaluation-Tool"><b>Server Performance Evaluation Tool</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/ryanspoone/fullstack-template"><b>Fullstack Template</b></a></td>
+	  <tr>
+		  <td><a href="https://github.com/ryanspoone/fullstack-template"><b>Fullstack Template</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/ryanspoone/nodejs-template"><b>Node.js Template</b></a></td>
+		<tr>
+			<td><a href="https://github.com/ryanspoone/nodejs-template"><b>Node.js Template</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
@@ -70,7 +70,7 @@ I'm Ryan, a software engineer living in **Austin, TX**.
   <summary>Austin weather</summary>
   <br />
 
-  Currently, the weather is: <b>84°F, <i>smoke</i></b>
+  Currently, the weather is: <b>83°F, <i>scattered clouds</i></b>
 
 
   Today, the sun rises at <b>06:37 AM</b> and sets at <b>08:35 PM</b>.
@@ -93,16 +93,17 @@ I'm Ryan, a software engineer living in **Austin, TX**.
 <p align="center">
     This <i>README</i> file is generated <b>every 3 hours</b>!
     <br />
-    Last refresh: Thursday, July 11, 10:04 PM CDT
+    Last refresh: Thursday, July 11, 11:11 PM CDT
     <br />
     <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme">Create your own here!</a>
 </p>
 
 ---
 <p align="center">
-  <i>Look at my repositories, and let's get in touch!</i>
+  <i>Take a look at my repositories and let's get in touch!</i>
   <p align="center">
     <a href="https://github.com/ryanspoone"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" alt="Github"/></a>
+    <a href="https://twitter.com/ryanspoone"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
     <a href="https://www.linkedin.com/in/ryanspoone"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:me@ryanspoone.com"><img src="https://img.shields.io/badge/email-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
