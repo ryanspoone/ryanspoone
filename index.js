@@ -21,64 +21,43 @@ const DATA = {
         timeZoneName: 'short',
         timeZone: 'America/Chicago'
     }),
-    cityTemperature: 'N/A',
-    cityWeather: 'N/A',
-    cityWeatherIcon: null,
-    sunRise: 'N/A',
-    sunSet: 'N/A',
     latestBlogPosts: '<ul><li>Not available</li></ul>'
 };
 
-const setWeatherInformation = async () => {
-    const response = await fetch(
-        `https://api.openweathermap.org/data/2.5/weather?q=Austin&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=imperial`
-    );
-    const { main: { temp } = {}, weather, sys: { sunrise, sunset } = {} } = await response.json();
-    const { description, icon } = _.first(weather) || {};
-    DATA.cityTemperature = Math.round(temp);
-    DATA.cityWeather = description;
-    DATA.cityWeatherIcon = icon;
-    DATA.sunRise = new Date(sunrise * 1000).toLocaleString('en-US', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'America/Chicago'
-    });
-    DATA.sunSet = new Date(sunset * 1000).toLocaleString('en-US', {
-        hour: '2-digit',
-        minute: '2-digit',
-        timeZone: 'America/Chicago'
-    });
-};
-
 const setBlogPosts = async () => {
-    const parser = new Parser();
-    const { items } = await parser.parseURL(
-        'https://www.ryanspoone.com/admin/6e77be03b4b76fc45615cb2967af11/rss/'
-    );
+    try {
+        const parser = new Parser();
+        const { items } = await parser.parseURL(
+            'https://www.ryanspoone.com/admin/6e77be03b4b76fc45615cb2967af11/rss/'
+        );
 
-    let posts = ['<ul>'];
-    if (!_.isEmpty(items)) {
-        _.each(items, item => {
-            const { title, link, isoDate, contentSnippet } = item;
-            const slug = _(link)
-                .split('/')
-                .compact()
-                .last();
-            const url = slug ? `https://www.ryanspoone.com/blog/${slug}` : link;
-            posts.push(
-                `<li><a href="${url}"><b>${title}</b></a> on ${new Date(isoDate).toLocaleDateString('en-US', {
-                    month: 'long',
-                    day: 'numeric',
-                    year: 'numeric',
-                    timeZone: 'America/Chicago'
-                })}<br /><i>${contentSnippet}</i></li>`
-            );
-        });
-    } else {
-        posts.push('<li>Not available</li>');
+        let posts = ['<ul>'];
+        if (!_.isEmpty(items)) {
+            _.each(items, item => {
+                const { title, link, isoDate, contentSnippet } = item;
+                const slug = _(link)
+                    .split('/')
+                    .compact()
+                    .last();
+                const url = slug ? `https://www.ryanspoone.com/blog/${slug}` : link;
+                posts.push(
+                    `<li><a href="${url}"><b>${title}</b></a> on ${new Date(isoDate).toLocaleDateString('en-US', {
+                        month: 'long',
+                        day: 'numeric',
+                        year: 'numeric',
+                        timeZone: 'America/Chicago'
+                    })}<br /><i>${contentSnippet}</i></li>`
+                );
+            });
+        } else {
+            posts.push('<li>Not available</li>');
+        }
+        posts.push('</ul>');
+        DATA.latestBlogPosts = posts.join('');
+    } catch (error) {
+        console.error('Failed to fetch blog posts:', error.message);
+        DATA.latestBlogPosts = '<ul><li>Check out my latest posts at <a href="https://www.ryanspoone.com/blog">ryanspoone.com/blog</a></li></ul>';
     }
-    posts.push('</ul>');
-    DATA.latestBlogPosts = posts.join('');
 };
 
 const generateReadMe = async () => {
@@ -92,7 +71,6 @@ const generateReadMe = async () => {
 };
 
 const action = async () => {
-    await setWeatherInformation();
     await setBlogPosts();
     await generateReadMe();
 };
