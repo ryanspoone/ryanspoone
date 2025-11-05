@@ -8,7 +8,6 @@ I'm an engineering leader with 10+ years of experience building scalable systems
 - Led engineering teams at **Mediafly/InsightSquared** from Software Engineer to Director of Engineering
 - Delivered **$4M ARR** through strategic technical initiatives
 - Built performance benchmarking tools at **Intel** (2X Division Recognition Award recipient)
-- Founded **Engineering Metrics AI** - SaaS platform for engineering insights
 
 ### What I Do
 - Build scalable full-stack applications with modern web technologies
@@ -18,11 +17,15 @@ I'm an engineering leader with 10+ years of experience building scalable systems
 
 ---
 
-## What I'm Working On
+## What I'm Building
 
-**[Engineering Metrics AI](https://engimetric.com)** - A SaaS platform that helps engineering teams understand and enhance their data with AI-generated real-time insights. Features an adaptive dashboard for monitoring metrics, visualizing trends, and creating customizable reports.
+**[Ouroborai](https://ourobor.ai)** - AI-powered B2B SaaS development platform that enables non-technical founders to deploy production-ready applications instantly and receive ongoing AI-generated features through a monthly subscription.
 
-*Tech Stack: React.js, Next.js, TypeScript, PostgreSQL, Node.js, LLM*
+*Tech Stack: Next.js, TypeScript, PostgreSQL, AI/LLM*
+
+**[EngineerDNA](https://engineerdna.com)** - Local-first engineering metrics platform designed as a privacy-first, open-source alternative to expensive SaaS tools like LinearB and Jellyfish. Runs locally (similar to Grafana or Jupyter) targeting engineering managers of 5-50 person teams. 100% open source with no paid tiers.
+
+*Tech Stack: Go, Vite, TypeScript*
 
 ---
 
@@ -131,5 +134,5 @@ I'm always interested in discussing engineering challenges, leadership opportuni
 ---
 
 <p align="center">
-  <sub>This profile automatically updates every 3 hours | Last refresh: Wednesday, November 5 at 12:38 AM CST</sub>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Wednesday, November 5 at 1:00 AM CST</sub>
 </p>
