@@ -1,88 +1,118 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.
+# Hi, I'm Ryan Spoone
 
-Welcome to my page, friend!
+**Engineering Director | Full-Stack Engineer | Performance Engineering Expert**
 
-I'm Ryan, software engineer currently living in **Austin, TX**.
+I'm an engineering leader with 10+ years of experience building scalable systems, leading high-performing teams, and driving technical innovation. Based in **Austin, TX**, I specialize in full-stack development, performance optimization, and engineering leadership.
 
----
+### Career Highlights
+- Led engineering teams at **Mediafly/InsightSquared** from Software Engineer to Director of Engineering
+- Delivered **$4M ARR** through strategic technical initiatives
+- Built performance benchmarking tools at **Intel** (2X Division Recognition Award recipient)
 
-## Things I code with
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Prettier-black?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier" />
-  <img src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-</p>
+### What I Do
+- Build scalable full-stack applications with modern web technologies
+- Design and optimize high-performance systems and ETL pipelines
+- Lead and mentor engineering teams through rapid growth
+- Create developer tools and open source software
 
 ---
 
-## Open source projects
+## What I'm Building
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td><a href="https://github.com/ryanspoone/Server-Performance-Evaluation-Tool"><b>Server Performance Evaluation Tool</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/Server-Performance-Evaluation-Tool?style=for-the-badge&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-		  <td><a href="https://github.com/ryanspoone/fullstack-template"><b>Fullstack Template</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/fullstack-template?style=for-the-badge&labelColor=343b41"/></td>
-    </tr>
-		<tr>
-			<td><a href="https://github.com/ryanspoone/nodejs-template"><b>Node.js Template</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ryanspoone/nodejs-template?style=for-the-badge&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+**[Ouroborai](https://ourobor.ai)** - AI-powered B2B SaaS development platform that enables non-technical founders to deploy production-ready applications instantly and receive ongoing AI-generated features through a monthly subscription.
+
+*Tech Stack: Next.js, TypeScript, PostgreSQL, AI/LLM*
+
+**[EngineerDNA](https://engineerdna.com)** - Local-first engineering metrics platform designed as a privacy-first, open-source alternative to expensive SaaS tools like LinearB and Jellyfish. Runs locally (similar to Grafana or Jupyter) targeting engineering managers of 5-50 person teams. 100% open source with no paid tiers.
+
+*Tech Stack: Go, Vite, TypeScript*
 
 ---
 
-## My latest posts
+## Tech Stack
 
-<ul><li><a href="https://www.ryanspoone.com/blog/single-node-linpack"><b>Single Node LINPACK Using GCC</b></a> on April 16, 2018<br /><i>In this guide, we will cover the best way I know of getting High-Performance Linpack running using GCC in 2018.</i></li></ul>
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases & Data**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## Fun facts
+## Featured Projects
+
+### [Server Performance Evaluation Tool (SPET)](https://github.com/ryanspoone/Server-Performance-Evaluation-Tool)
+![Stars](https://img.shields.io/github/stars/ryanspoone/Server-Performance-Evaluation-Tool?style=flat-square)
+![Forks](https://img.shields.io/github/forks/ryanspoone/Server-Performance-Evaluation-Tool?style=flat-square)
+
+An open-source benchmarking suite for x86_64 Linux systems I developed using my performance engineering expertise. SPET automates performance testing across compute, memory, HPC, and web workloads. Perfect for system administrators and performance engineers evaluating server hardware.
+
+**Tech:** Python, Bash, C++
+
+### [Fullstack Template](https://github.com/ryanspoone/fullstack-template)
+![Stars](https://img.shields.io/github/stars/ryanspoone/fullstack-template?style=flat-square)
+![Forks](https://img.shields.io/github/forks/ryanspoone/fullstack-template?style=flat-square)
+
+Production-ready fullstack application template with modern best practices. Includes authentication, database configuration, API structure, and deployment setup to help developers ship faster.
+
+**Tech:** React, Node.js, Express
+
+### [Node.js Template](https://github.com/ryanspoone/nodejs-template)
+![Stars](https://img.shields.io/github/stars/ryanspoone/nodejs-template?style=flat-square)
+![Forks](https://img.shields.io/github/forks/ryanspoone/nodejs-template?style=flat-square)
+
+Opinionated Node.js project template with TypeScript, testing, linting, and CI/CD configurations. Designed to accelerate backend development with enterprise-grade tooling and structure.
+
+**Tech:** Node.js, TypeScript
+
+---
+
+## Latest Blog Posts
+
+<ul><li>Check out my latest posts at <a href="https://www.ryanspoone.com/blog">ryanspoone.com/blog</a></li></ul>
+
+---
+
+## GitHub Stats
+
 <details>
-  <summary>Austin weather</summary>
-  <br />
-
-  Currently, the weather is: <b>68°F, <i>broken clouds</i></b>
-
-
-  Today, the sun rises at <b>06:54 AM</b> and sets at <b>06:31 PM</b>.
-</details>
-<details>
-  <summary>Public stats</summary>
+  <summary>Click to expand</summary>
   <br />
   <table>
     <tbody>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=ryanspoone&show_icons=true&line_height=27&theme=monokai&count_private=true" alt="ryanspoone's Github Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanspoone&hide_langs_below=1&theme=monokai&line_height=27&count_private=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=ryanspoone&show_icons=true&line_height=27&theme=default&count_private=true&hide_border=true" alt="Ryan's Github Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanspoone&hide_langs_below=1&theme=default&line_height=27&layout=compact&hide_border=true" alt="Top Languages" /></td>
     </tr>
     </tbody>
   </table>
@@ -90,21 +120,19 @@ I'm Ryan, software engineer currently living in **Austin, TX**.
 
 ---
 
+## Let's Connect
+
+I'm always interested in discussing engineering challenges, leadership opportunities, and innovative projects.
+
 <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!
-    <br />
-    Last refresh: Monday, March 3, 12:06 AM CST
-    <br />
-    <a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme">Create your own here!</a>
+  <a href="https://www.linkedin.com/in/ryanspoone"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://ryanspoone.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="mailto:ryanspoone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://managerreadme.com/readme/ryanspoone"><img src="https://img.shields.io/badge/Manager_README-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Manager README"/></a>
 </p>
 
 ---
+
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-  <p align="center">
-    <a href="https://github.com/ryanspoone"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" alt="Github"/></a>
-    <a href="https://twitter.com/ryanspoone"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://www.linkedin.com/in/ryanspoone"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:me@ryanspoone.com"><img src="https://img.shields.io/badge/email-%23D44638.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Wednesday, November 5 at 1:00 AM CST</sub>
 </p>
