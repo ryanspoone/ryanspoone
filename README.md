@@ -99,7 +99,7 @@ Opinionated Node.js project template with TypeScript, testing, linting, and CI/C
 
 ## Latest Blog Posts
 
-<ul></ul>
+<ul><li>Check out my latest posts at <a href="https://www.ryanspoone.com/blog">ryanspoone.com/blog</a></li></ul>
 
 ---
 
@@ -134,5 +134,5 @@ I'm always interested in discussing engineering challenges, leadership opportuni
 ---
 
 <p align="center">
-  <sub>This profile automatically updates every 3 hours | Last refresh: Friday, November 7 at 12:01 AM CST</sub>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Friday, November 7 at 3:01 AM CST</sub>
 </p>
