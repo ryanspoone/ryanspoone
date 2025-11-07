@@ -3,29 +3,7 @@
     "plugins": ["prettier", "json"],
     "rules": {
         "prettier/prettier": "error",
-        "no-console": "error",
-        "valid-jsdoc": [
-            "error",
-            {
-                "prefer": {
-                    "arg": "param",
-                    "argument": "param",
-                    "return": "returns"
-                },
-                "preferType": {
-                    "boolean": "Boolean",
-                    "number": "Number",
-                    "object": "Object",
-                    "string": "String",
-                    "function": "Function",
-                    "callback": "Function",
-                    "Callback": "Function"
-                },
-                "requireReturn": false,
-                "matchDescription": ".+",
-                "requireReturnDescription": false
-            }
-        ],
+        "no-console": ["error", { "allow": ["error", "warn"] }],
         "getter-return": "error",
         "no-await-in-loop": "error",
         "no-prototype-builtins": "error",
