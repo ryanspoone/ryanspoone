@@ -2,7 +2,7 @@
 
 **Engineering Director | Full-Stack Engineer | Performance Engineering Expert**
 
-I'm an engineering leader with 10+ years of experience building scalable systems, leading high-performing teams, and driving technical innovation. Based in **Austin, TX**, I specialize in full-stack development, performance optimization, and engineering leadership.
+I'm an engineering leader with 10+ years of experience building scalable systems, leading high-performing teams, and driving technical innovation. Currently **remote-first**, I specialize in full-stack development, performance optimization, and engineering leadership.
 
 ### Career Highlights
 - Led engineering teams at **Mediafly/InsightSquared** from Software Engineer to Director of Engineering
@@ -134,5 +134,5 @@ I'm always interested in discussing engineering challenges, leadership opportuni
 ---
 
 <p align="center">
-  <sub>This profile automatically updates every 3 hours | Last refresh: Thursday, November 6 at 11:16 PM CST</sub>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Thursday, November 6 at 11:39 PM CST</sub>
 </p>
