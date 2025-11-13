@@ -134,5 +134,5 @@ I'm always interested in discussing engineering challenges, leadership opportuni
 ---
 
 <p align="center">
-  <sub>This profile automatically updates every 3 hours | Last refresh: Thursday, November 13 at 12:01 AM CST</sub>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Thursday, November 13 at 3:01 AM CST</sub>
 </p>
