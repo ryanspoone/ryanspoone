@@ -11,7 +11,7 @@
     "author": "Ryan Spoone",
     "license": "MIT",
     "dependencies": {
-        "dotenv": "^8.2.0",
+        "dotenv": "^17.2.3",
         "isomorphic-fetch": "^3.0.0",
         "lodash": "^4.17.20",
         "mustache": "^4.0.1",
