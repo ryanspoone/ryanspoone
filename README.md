@@ -51,7 +51,12 @@ I'm the CTO of [Delivr.ai](https://www.delivr.ai). We resolve B2B intent down to
 
 ## Latest Engineering Posts
 
-<ul><li>Engineering blog launching soon on <a href="https://www.delivr.ai">delivr.ai</a></li></ul>
+<ul>
+                    <li>
+                        <a href="https://www.delivr.ai/engineering/view-through-is-a-join-not-a-model"><b>View-through is a join, not a model</b></a> on August 24, 2026
+                        <br /><i>We put the same identity pixel inside the ad slot and on the advertiser site, then measured what display actually does. The typical payoff is a return visit three days later, which is exactly what click math cannot see.</i>
+                    </li>
+                </ul>
 
 ---
 
@@ -115,7 +120,7 @@ Always up for talking identity graphs, intent data, or DataFusion war stories.
 <p align="center">
   <a href="https://www.linkedin.com/in/ryanspoone"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://ryanspoone.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
-  <a href="https://www.delivr.ai"><img src="https://img.shields.io/badge/Delivr.ai-1a1a1a?style=for-the-badge&logo=rss&logoColor=white" alt="Delivr.ai"/></a>
+  <a href="https://www.delivr.ai/engineering"><img src="https://img.shields.io/badge/Delivr_Engineering-1a1a1a?style=for-the-badge&logo=rss&logoColor=white" alt="Delivr Engineering"/></a>
   <a href="mailto:ryanspoone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://managerreadme.com/readme/ryanspoone"><img src="https://img.shields.io/badge/Manager_README-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Manager README"/></a>
 </p>
@@ -123,5 +128,5 @@ Always up for talking identity graphs, intent data, or DataFusion war stories.
 ---
 
 <p align="center">
-  <sub>This profile automatically updates every 3 hours | Last refresh: Tuesday, August 25 at 4:05 PM CDT</sub>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Tuesday, August 25 at 4:26 PM CDT</sub>
 </p>
