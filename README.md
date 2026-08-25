@@ -1,31 +1,21 @@
 # Hi, I'm Ryan Spoone
 
-**Engineering Director | Full-Stack Engineer | Performance Engineering Expert**
+**CTO @ Delivr.ai | Deterministic identity resolution & person-level intent**
 
-I'm an engineering leader with 10+ years of experience building scalable systems, leading high-performing teams, and driving technical innovation. Currently **remote-first**, I specialize in full-stack development, performance optimization, and engineering leadership.
+I'm the CTO of [Delivr.ai](https://www.delivr.ai). We do person-level intent: instead of telling B2B teams that some company is researching a topic, we tell them who is researching it, resolved to a real person. I'm still hands-on: Rust, Go, TypeScript, and the data infrastructure underneath.
 
-### Career Highlights
-- Led engineering teams at **Mediafly/InsightSquared** from Software Engineer to Director of Engineering
-- Delivered **$4M ARR** through strategic technical initiatives
-- Built performance benchmarking tools at **Intel** (2X Division Recognition Award recipient)
+### What we run
 
-### What I Do
-- Build scalable full-stack applications with modern web technologies
-- Design and optimize high-performance systems and ETL pipelines
-- Lead and mentor engineering teams through rapid growth
-- Create developer tools and open source software
+- A Rust data stack (DataFusion, DuckDB) that replaced Snowflake, Spark, and Airflow, processing billions of behavioral signals a day
+- An identity graph with hundreds of millions of person profiles
+- An intent API serving over 1.2 billion person-topic signals, rebuilt and atomically swapped into DynamoDB every day
+- An AI-assisted development process where agents implement tickets and humans hold the review bar
 
----
+### Before Delivr
 
-## What I'm Building
-
-**[Ouroborai](https://ourobor.ai)** - AI-powered B2B SaaS development platform that enables non-technical founders to deploy production-ready applications instantly and receive ongoing AI-generated features through a monthly subscription.
-
-*Tech Stack: Next.js, TypeScript, PostgreSQL, AI/LLM*
-
-**[EngineerDNA](https://engineerdna.com)** - Local-first engineering metrics platform designed as a privacy-first, open-source alternative to expensive SaaS tools like LinearB and Jellyfish. Runs locally (similar to Grafana or Jupyter) targeting engineering managers of 5-50 person teams. 100% open source with no paid tiers.
-
-*Tech Stack: Go, Vite, TypeScript*
+- Director of Engineering at **Mediafly**: strategic products contributing sustained $4M ARR, built the company's first nearshore engineering team
+- Principal Engineer at **InsightSquared**: ETL platform behind 500% customer growth
+- Performance Engineer at **Intel**: open-source benchmarking tools, 2x Division Recognition Award recipient
 
 ---
 
@@ -33,39 +23,43 @@ I'm an engineering leader with 10+ years of experience building scalable systems
 
 **Languages**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Databases & Data**
+**Data & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-**DevOps & Cloud**
-
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Web**
+
+![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## Latest Engineering Posts
+
+<ul><li>Engineering posts live at <a href="https://www.delivr.ai/engineering">delivr.ai/engineering</a></li></ul>
+
+---
+
+## Side Projects
+
+**[Ouroborai](https://ourobor.ai)** - AI-powered B2B SaaS development platform that enables non-technical founders to deploy production-ready applications and receive ongoing AI-generated features.
+
+**[EngineerDNA](https://engineerdna.com)** - Local-first, open-source engineering metrics platform. An alternative to SaaS tools like LinearB and Jellyfish that runs locally, targeting engineering managers of 5-50 person teams.
 
 ---
 
@@ -75,7 +69,7 @@ I'm an engineering leader with 10+ years of experience building scalable systems
 ![Stars](https://img.shields.io/github/stars/ryanspoone/Server-Performance-Evaluation-Tool?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/ryanspoone/Server-Performance-Evaluation-Tool?style=flat-square)
 
-An open-source benchmarking suite for x86_64 Linux systems I developed using my performance engineering expertise. SPET automates performance testing across compute, memory, HPC, and web workloads. Perfect for system administrators and performance engineers evaluating server hardware.
+An open-source benchmarking suite for x86_64 Linux systems. SPET automates performance testing across compute, memory, HPC, and web workloads for system administrators and performance engineers evaluating server hardware.
 
 **Tech:** Python, Bash, C++
 
@@ -83,7 +77,7 @@ An open-source benchmarking suite for x86_64 Linux systems I developed using my 
 ![Stars](https://img.shields.io/github/stars/ryanspoone/fullstack-template?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/ryanspoone/fullstack-template?style=flat-square)
 
-Production-ready fullstack application template with modern best practices. Includes authentication, database configuration, API structure, and deployment setup to help developers ship faster.
+Production-ready fullstack application template with authentication, database configuration, API structure, and deployment setup.
 
 **Tech:** React, Node.js, Express
 
@@ -91,15 +85,9 @@ Production-ready fullstack application template with modern best practices. Incl
 ![Stars](https://img.shields.io/github/stars/ryanspoone/nodejs-template?style=flat-square)
 ![Forks](https://img.shields.io/github/forks/ryanspoone/nodejs-template?style=flat-square)
 
-Opinionated Node.js project template with TypeScript, testing, linting, and CI/CD configurations. Designed to accelerate backend development with enterprise-grade tooling and structure.
+Opinionated Node.js project template with TypeScript, testing, linting, and CI/CD configurations.
 
 **Tech:** Node.js, TypeScript
-
----
-
-## Latest Blog Posts
-
-<ul><li>Check out my latest posts at <a href="https://www.ryanspoone.com/blog">ryanspoone.com/blog</a></li></ul>
 
 ---
 
@@ -122,11 +110,12 @@ Opinionated Node.js project template with TypeScript, testing, linting, and CI/C
 
 ## Let's Connect
 
-I'm always interested in discussing engineering challenges, leadership opportunities, and innovative projects.
+I'm always interested in discussing engineering challenges, identity and intent data, and building with small teams.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryanspoone"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://ryanspoone.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+  <a href="https://www.delivr.ai/engineering"><img src="https://img.shields.io/badge/Delivr_Engineering-1a1a1a?style=for-the-badge&logo=rss&logoColor=white" alt="Delivr Engineering Blog"/></a>
   <a href="mailto:ryanspoone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://managerreadme.com/readme/ryanspoone"><img src="https://img.shields.io/badge/Manager_README-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Manager README"/></a>
 </p>
@@ -134,5 +123,5 @@ I'm always interested in discussing engineering challenges, leadership opportuni
 ---
 
 <p align="center">
-  <sub>This profile automatically updates every 3 hours | Last refresh: Tuesday, August 25 at 1:06 PM CDT</sub>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Tuesday, August 25 at 3:13 PM CDT</sub>
 </p>

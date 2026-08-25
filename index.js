@@ -12,8 +12,7 @@ const Parser = require('rss-parser');
 
 // Constants
 const TIMEZONE = 'America/Chicago';
-const RSS_FEED_URL =
-    process.env.RSS_FEED_URL || 'https://www.ryanspoone.com/admin/6e77be03b4b76fc45615cb2967af11/rss/';
+const RSS_FEED_URL = process.env.RSS_FEED_URL || 'https://www.delivr.ai/engineering/feed.xml';
 const TEMPLATE_FILE = './main.mustache';
 const OUTPUT_FILE = 'README.md';
 
@@ -36,7 +35,7 @@ const BLOG_DATE_OPTIONS = {
 
 const DATA = {
     refreshDate: new Date().toLocaleDateString('en-US', DATE_OPTIONS),
-    latestBlogPosts: '<ul><li>Not available</li></ul>',
+    latestBlogPosts: '<ul><li>Engineering posts live at <a href="https://www.delivr.ai/engineering">delivr.ai/engineering</a></li></ul>',
 };
 
 /**
@@ -52,21 +51,19 @@ const setBlogPosts = async () => {
         const posts = ['<ul>'];
 
         if (!_.isEmpty(items)) {
-            _.each((item) => {
+            _.each(items, (item) => {
                 const { title, link, isoDate, contentSnippet } = item;
-                const slug = _(link).split('/').compact().last();
-                const url = slug ? `https://www.ryanspoone.com/blog/${slug}` : link;
                 const formattedDate = new Date(isoDate).toLocaleDateString('en-US', BLOG_DATE_OPTIONS);
 
                 posts.push(`
                     <li>
-                        <a href="${url}"><b>${title}</b></a> on ${formattedDate}
+                        <a href="${link}"><b>${title}</b></a> on ${formattedDate}
                         <br /><i>${contentSnippet}</i>
                     </li>
                 `);
-            }, items);
+            });
         } else {
-            posts.push('<li>Not available</li>');
+            posts.push('<li>Engineering posts live at <a href="https://www.delivr.ai/engineering">delivr.ai/engineering</a></li>');
         }
 
         posts.push('</ul>');
@@ -75,7 +72,7 @@ const setBlogPosts = async () => {
         // eslint-disable-next-line no-console
         console.error('Failed to fetch blog posts:', error.message);
         DATA.latestBlogPosts =
-            '<ul><li>Check out my latest posts at <a href="https://www.ryanspoone.com/blog">ryanspoone.com/blog</a></li></ul>';
+            '<ul><li>Engineering posts live at <a href="https://www.delivr.ai/engineering">delivr.ai/engineering</a></li></ul>';
     }
 };
 
