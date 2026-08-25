@@ -2,14 +2,14 @@
 
 **CTO @ Delivr.ai | Deterministic identity resolution & person-level intent**
 
-I'm the CTO of [Delivr.ai](https://www.delivr.ai). We do person-level intent: instead of telling B2B teams that some company is researching a topic, we tell them who is researching it, resolved to a real person. I'm still hands-on: Rust, Go, TypeScript, and the data infrastructure underneath.
+I'm the CTO of [Delivr.ai](https://www.delivr.ai). We resolve B2B intent down to the person: who is researching what, deterministically, keyed on hashed emails. Most of my time still goes into the Rust and Go infrastructure underneath.
 
 ### What we run
 
-- A Rust data stack (DataFusion, DuckDB) that replaced Snowflake, Spark, and Airflow, processing billions of behavioral signals a day
-- An identity graph with hundreds of millions of person profiles
-- An intent API serving over 1.2 billion person-topic signals, rebuilt and atomically swapped into DynamoDB every day
-- An AI-assisted development process where agents implement tickets and humans hold the review bar
+- Rust data services (DataFusion, DuckDB) that took over from Snowflake, Spark, and Airflow. Billions of signals a day.
+- An identity graph holding hundreds of millions of person profiles
+- The intent API: 1.2B+ person-topic pairs, reimported into DynamoDB daily behind an atomic pointer swap
+- An AI-assisted dev loop where agents write the first pass and humans own the merge
 
 ### Before Delivr
 
@@ -51,7 +51,7 @@ I'm the CTO of [Delivr.ai](https://www.delivr.ai). We do person-level intent: in
 
 ## Latest Engineering Posts
 
-<ul><li>Engineering posts live at <a href="https://www.delivr.ai/engineering">delivr.ai/engineering</a></li></ul>
+<ul><li>Engineering blog launching soon on <a href="https://www.delivr.ai">delivr.ai</a></li></ul>
 
 ---
 
@@ -110,12 +110,12 @@ Opinionated Node.js project template with TypeScript, testing, linting, and CI/C
 
 ## Let's Connect
 
-I'm always interested in discussing engineering challenges, identity and intent data, and building with small teams.
+Always up for talking identity graphs, intent data, or DataFusion war stories.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryanspoone"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://ryanspoone.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
-  <a href="https://www.delivr.ai/engineering"><img src="https://img.shields.io/badge/Delivr_Engineering-1a1a1a?style=for-the-badge&logo=rss&logoColor=white" alt="Delivr Engineering Blog"/></a>
+  <a href="https://www.delivr.ai"><img src="https://img.shields.io/badge/Delivr.ai-1a1a1a?style=for-the-badge&logo=rss&logoColor=white" alt="Delivr.ai"/></a>
   <a href="mailto:ryanspoone@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://managerreadme.com/readme/ryanspoone"><img src="https://img.shields.io/badge/Manager_README-FF6B6B?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Manager README"/></a>
 </p>
@@ -123,5 +123,5 @@ I'm always interested in discussing engineering challenges, identity and intent 
 ---
 
 <p align="center">
-  <sub>This profile automatically updates every 3 hours | Last refresh: Tuesday, August 25 at 3:18 PM CDT</sub>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Tuesday, August 25 at 3:46 PM CDT</sub>
 </p>

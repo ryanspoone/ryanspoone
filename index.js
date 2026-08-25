@@ -35,7 +35,7 @@ const BLOG_DATE_OPTIONS = {
 
 const DATA = {
     refreshDate: new Date().toLocaleDateString('en-US', DATE_OPTIONS),
-    latestBlogPosts: '<ul><li>Engineering posts live at <a href="https://www.delivr.ai/engineering">delivr.ai/engineering</a></li></ul>',
+    latestBlogPosts: '<ul><li>Engineering blog launching soon on <a href="https://www.delivr.ai">delivr.ai</a></li></ul>',
 };
 
 /**
@@ -63,7 +63,7 @@ const setBlogPosts = async () => {
                 `);
             });
         } else {
-            posts.push('<li>Engineering posts live at <a href="https://www.delivr.ai/engineering">delivr.ai/engineering</a></li>');
+            posts.push('<li>Engineering blog launching soon on <a href="https://www.delivr.ai">delivr.ai</a></li>');
         }
 
         posts.push('</ul>');
@@ -72,7 +72,7 @@ const setBlogPosts = async () => {
         // eslint-disable-next-line no-console
         console.error('Failed to fetch blog posts:', error.message);
         DATA.latestBlogPosts =
-            '<ul><li>Engineering posts live at <a href="https://www.delivr.ai/engineering">delivr.ai/engineering</a></li></ul>';
+            '<ul><li>Engineering blog launching soon on <a href="https://www.delivr.ai">delivr.ai</a></li></ul>';
     }
 };
 
