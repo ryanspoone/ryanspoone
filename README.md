@@ -53,6 +53,11 @@ I'm the CTO of [Delivr.ai](https://www.delivr.ai). We resolve B2B intent down to
 
 <ul>
                     <li>
+                        <a href="https://www.delivr.ai/engineering/rebuilding-the-intent-graph-every-day"><b>We rebuild the intent graph from scratch every day</b></a> on August 25, 2026
+                        <br /><i>Over 1.2 billion person-topic intent signals across roughly 27 million people and 2 million companies, thrown away and rebuilt whole every 24 hours. For a signal that decays in days, freshness is not a cadence choice. It is an accuracy claim.</i>
+                    </li>
+                
+                    <li>
                         <a href="https://www.delivr.ai/engineering/view-through-is-a-join-not-a-model"><b>View-through is a join, not a model</b></a> on August 24, 2026
                         <br /><i>We put the same identity pixel inside the ad slot and on the advertiser site, then measured what display actually does. The typical payoff is a return visit three days later, which is exactly what click math cannot see.</i>
                     </li>
@@ -128,5 +133,5 @@ Always up for talking identity graphs, intent data, or DataFusion war stories.
 ---
 
 <p align="center">
-  <sub>This profile automatically updates every 3 hours | Last refresh: Tuesday, August 25 at 7:03 PM CDT</sub>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Tuesday, August 25 at 10:20 PM CDT</sub>
 </p>
