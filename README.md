@@ -53,6 +53,11 @@ I'm the CTO of [Delivr.ai](https://www.delivr.ai). We resolve B2B intent down to
 
 <ul>
                     <li>
+                        <a href="https://www.delivr.ai/engineering/agents-implement-humans-gate"><b>Agents implement, humans gate</b></a> on August 31, 2026
+                        <br /><i>Agents write most of our first-pass code. Humans review every diff and perform every merge. The interesting part is not the agents. It is the harness that makes their output safe to ship.</i>
+                    </li>
+                
+                    <li>
                         <a href="https://www.delivr.ai/engineering/rebuilding-the-intent-graph-every-day"><b>We rebuild the intent graph from scratch every day</b></a> on August 25, 2026
                         <br /><i>Over 1.2 billion person-topic intent signals across roughly 27 million people and 2 million companies, thrown away and rebuilt whole every 24 hours. For a signal that decays in days, freshness is not a cadence choice. It is an accuracy claim.</i>
                     </li>
@@ -133,5 +138,5 @@ Always up for talking identity graphs, intent data, or DataFusion war stories.
 ---
 
 <p align="center">
-  <sub>This profile automatically updates every 3 hours | Last refresh: Tuesday, September 1 at 7:01 PM CDT</sub>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Tuesday, September 1 at 10:03 PM CDT</sub>
 </p>
