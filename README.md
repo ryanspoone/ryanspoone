@@ -138,5 +138,5 @@ Always up for talking identity graphs, intent data, or DataFusion war stories.
 ---
 
 <p align="center">
-  <sub>This profile automatically updates every 3 hours | Last refresh: Thursday, September 10 at 10:01 AM CDT</sub>
+  <sub>This profile automatically updates every 3 hours | Last refresh: Thursday, September 10 at 1:02 PM CDT</sub>
 </p>
